@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         // this is a comment
-        //chnage from master
+        //chnage2 from master
     }
 }
